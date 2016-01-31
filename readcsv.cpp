@@ -4,7 +4,14 @@
 #include <stdlib.h>
 #include <string.h>
 
-
+/*********************************************************************
+***       @author Shaohu Zhang
+***     WENS Lab at SDSU
+***     DATE :  01/30/2016
+***     
+***     
+***     PROGRAM DESCRIPTION : readcsv.cpp file                                                           *
+*********************************************************************/
 
 
 
